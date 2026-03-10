@@ -4,3 +4,4 @@
 ### Domain: Finance
 ### Total project cycle: 6 Months
 ### High level project directory arch: 
+### Required stacks:
