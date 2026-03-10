@@ -5,3 +5,4 @@
 ### Total project cycle: 6 Months
 ### High level project directory arch: 
 ### Required stacks:
+### Required python packages:
