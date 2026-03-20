@@ -12,5 +12,4 @@ We heve proposed a GNN mdoel that helps to detect fraud in transaction and help 
 This project approaches with the new architecture of GNN that is very used in the transaction ecosystem to detect the fraud.
 In this end-to-end deep learning project, we are going from scratch to collect the data and go all the way upto model training and evaluation.
 This is our group's final year project totally from backend.
-This project's and architcture will be available very soon in the repo.
 
