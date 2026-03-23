@@ -6,5 +6,5 @@
 ### High level project directory arch: 
 ### Required stacks:
 ### Required python packages for data preprocessing: Pandas, Numpy, Matplotlib
-### Required python packages for model training: Scikit-learn, tensorflow
+
 
