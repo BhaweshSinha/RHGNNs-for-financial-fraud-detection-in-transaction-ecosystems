@@ -1,8 +1,4 @@
 # RHGNNs-for-financial-fraud-detection-in-transaction-ecosystems
-### Total number of team members: 4
-### Domain: Finance
-### Total project life-cycle: 6 Months
-
-
+This project shows the end-to-end implimentation of Relational Heterogenous Graph Neural Networks (RHGNNs)
 
 
